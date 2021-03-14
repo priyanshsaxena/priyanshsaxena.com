@@ -3,16 +3,17 @@ name: "Priyansh Saxena"
 nickname: "Priyansh"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/me.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "askpriyansh@gmail.com"
-  phone: "+0123456789"
+  phone: "+91 8218524729"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Software Developer
+  - I am an open-source contributor
+  - I am a cricket lover
+  - I am an astronomy enthusiast
+  - I am a blood-donor
+  - I am open to discussion on anything - work or otherwise

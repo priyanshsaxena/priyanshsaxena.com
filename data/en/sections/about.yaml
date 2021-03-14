@@ -11,29 +11,49 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Goldman Sachs Services Private Limited.
-  url: "https://www.example.com"
+  name: Goldman Sachs
+  url: "https://www.goldmansachs.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate software engineer with 3 years of working experience. I build tools for PaaS Cloud Computing using [Terraform](https://www.terraform.io/) using Java and Python. My tools enable people to develop, run, and manage business applications without the need to build and maintain the infrastructure such software development processes typically require. Off work, I indulge in recreational software-development, like writing an automated responder for Facebook comments.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "askpriyansh@gmail.com"
+
   - name: Github
     icon: "fab fa-github"
     url: "https://www.github.com/priyanshsaxena"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/priyanshsaxena"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
   - name: Leadership
-    percentage: 75
+    percentage: 50
     color: blue
   - name: Team Work
     percentage: 90
     color: yellow
+  - name: Communication
+    percentage: 85
+    color: pink
+  - name: Hard Working
+    percentage: 85
+    color: green
+  - name: Fast Learner
+    percentage: 85
+    color: sky
+  - name: Problem Solving
+    percentage: 85
+    color: orange

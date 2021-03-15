@@ -7,7 +7,7 @@ image: "images/author/me.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "askpriyansh@gmail.com"
-  phone: "+91 8218524729"
+  phone: ""
 
 # some summary about what you do
 summary:

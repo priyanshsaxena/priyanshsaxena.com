@@ -1,0 +1,74 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+  - name: B.Tech. in Computer Science & Engineering
+    icon: fa-graduation-cap
+    timeframe: 2014-2018
+    institution:
+      name: Indian Institute of Technology Mandi
+      url: "https://www.iitmandi.ac.in/"
+    grade: #(optional)
+      scale: CGPA
+      achieved: 8.74
+      outOf: 10
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: true
+      courses:
+        - name: Advanced Data Structures and Algorithm
+          achieved: 9
+          outOf: 10
+        - name: Systems Practicum
+          achieved: 10
+          outOf: 10
+        - name: Software Design Patterns
+          achieved: 9
+          outOf: 10
+        - name: Algorithm Design & Analysis
+          achieved: 9
+          outOf: 10
+    extracurricularActivities:
+      - IIT Mandi Literary Society, editor for the spring 2015 edition of the magazine Vivaan.
+      - Chairman of IIT Mandi ACM Student Chapter for AY 2016-2017.
+      - Space Technology and Astronomy Cell
+      - Cricket
+      - Music Club
+  - name: Higher Secondary School Certificate
+    icon: fa-university
+    timeframe: 2012-2014
+    institution:
+      name: BBL Public School
+      url: "http://www.bblschool.com/"
+    grade: #(optional)
+      scale: Percentage
+      achieved: 96
+      outOf: 100
+    extracurricularActivities:
+      - Cricket
+      - Football
+  - name: Secondary School Certificate
+    icon: fa-school
+    timeframe: 2000-2012
+    institution:
+      name: BBL Public School
+      url: "http://www.bblschool.com/"
+    grade: #(optional)
+      scale: GPA
+      achieved: 10
+      outOf: 10
+    extracurricularActivities:
+      - Stand-up comedy, performed with Pratap Fauzdar (Bareilly, 2006)
+      - Drummer (Thunderhawks)
+      - Quizzing
+      - Singing
+      - Cricket
+      - Chess

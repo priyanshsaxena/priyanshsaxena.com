@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+  - title: Winner
+    image: /images/sections/achievements/stockmarketanalysis.jpg
+    summary: Stock Market Analysis, 5th Inter IIT Tech Meet @ IIT Kanpur.
+  - title: Second Runner-Up
+    image: /images/sections/achievements/softwaredevelopmentcontest.jpg
+    summary: Software Development Contest, 4th Inter IIT Tech Meet @ IIT Mandi.

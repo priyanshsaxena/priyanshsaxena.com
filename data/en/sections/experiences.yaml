@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: Goldmans Sachs Service Pvt. Ltd.
+      url: "https://www.goldmansachs.com"
+      location: Bengaluru, India
+      # company overview
+      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: New Associate Programmer Analyst
+        start: May 2018
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Responsible for management of a PaaS and cloud computing platform for developing, hosting and runtime-management of web applications. Built using Java 8 and Python, and supported by an independent integration- and penetration-testing suite written in Spock.
+          - Responsible for the UI and Infrastructure-as-Code offerings used firmwide for on-premises and public-cloud infrastructure procurement. Used Java, AngularJS, Terraform and multiple in-house tools.
+          - Active contributor to a global initiative to enforce domain-specific controls using Policy-as-Code. Policies written in Rego evaluated with Open-Policy Agent.
+
+  - company:
+      name: Siemens Technology and Services Pvt. Ltd.,
+      url: "https://www.siemens.com/"
+      location: Bengaluru (India)
+      overview: Siemens AG is a global technology powerhouse that brings together the digital and physical worlds to benefit customers and society. The company focuses on intelligent infrastructure for buildings and decentralized energy systems, on automation and digitalization in the process and manufacturing industries, and on smart mobility solutions for rail and road transport.
+
+    positions:
+      - designation: Research Intern
+        start: Jun 2017
+        end: Jul 2017
+        responsibilities:
+          - Perform a comparative study of Apache HBase and Apache Cassandra to design a fast-pace data-pipeline for high-frequency I/O.
+          - Augment the pipeline with a compression scheme for storage optimization.
+          - Add an SQL wrapper over a NoSQL database for standardization of queries, using Apache Phoenix.
+      - designation: Research Intern
+        start: Dec 2016
+        end: Feb 2017
+        responsibilities:
+          - Develop a bench-marking tool to monitor and gauge the performance of SQL Engines on Hadoop.
+          - Use this performance to predict and recommend optimal querying engine for varying data load and cluster capacities.
+          - Maintain and upgrade the software, with contingencies for newer engines with plug-and-play design.

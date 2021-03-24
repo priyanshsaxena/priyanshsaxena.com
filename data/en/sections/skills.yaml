@@ -13,7 +13,7 @@ section:
 skills:
   - name: Terraform
     logo: /images/sections/skills/terraform.png
-    summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+    summary: "Comfortable with codifying application infrastructure with HCL2, state-management, and Terraform SDK for resource-providers."
     url: "https://terraform.io/"
 
   - name: Kubernetes
@@ -23,7 +23,7 @@ skills:
 
   - name: Java Development
     logo: /images/sections/skills/java.png
-    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+    summary: "Using Java as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
     url: "https://www.java.com/"
 
   - name: Cloud Computing

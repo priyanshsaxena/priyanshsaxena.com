@@ -58,3 +58,10 @@ projects:
     repo: https://github.com/preservim/nerdcommenter
     summary: Comment functions so powerful—no comment necessary.
     tags: ["professional", "vim"]
+
+  - name: JEE Mains Score Calculator
+    role: Developer
+    timeline: "Mar 2021 - Mar 2021"
+    repo: "https://github.com/priyanshsaxena/priyanshsaxena.com"
+    summary: Utility web-page that calculates the section-wise and total score of the applicants, given the response-sheet of the applicant and the official answer-key. Uses Vanilla JavaScript, supplemented with a Bootstrap UI and Google Analytics
+    tags: ["hobby","javascript", "analytics", "jee"]

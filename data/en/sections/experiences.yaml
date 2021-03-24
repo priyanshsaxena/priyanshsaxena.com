@@ -15,7 +15,9 @@ experiences:
       url: "https://www.goldmansachs.com"
       location: Bengaluru, India
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview:
+
+        The Goldman Sachs Group, Inc. is a leading global financial institution that delivers a broad range of financial services across investment banking, securities, investment management and consumer banking to a large and diversified client base that includes corporations, financial institutions, governments and individuals.
     positions:
       - designation: New Associate Programmer Analyst
         start: May 2018

@@ -7,3 +7,5 @@ description: Portfolio and personal blog of Priyansh Saxena.
 customMenus:
   - name: JEE Mains Score Calculator
     url: /jee-mains-score-calculator
+  - name: COVID-19 on Google in India
+    url: /covid-google-india

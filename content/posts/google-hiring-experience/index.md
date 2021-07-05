@@ -63,6 +63,25 @@ Having realized that there are shortcomings, I intensified my preparation. More 
 
 The de-motivation that sets in after a setback can make or break an individual. With the help of my well-wishers and friends, it became easier to fight back against the grimness of the situation. The flexible hiring process of Google immensely helped with it, and it was accentuated far more clearly by an exceptionally helpful recruiter.
 
+What motivated me to continue to work hard ?
+
+1. The idea of working on cutting-edge technology that scaled to millions of users appealed to me.
+2. Google offers [employee benefits](https://www.inc.com/business-insider/best-google-benefits.html) that are usually unheard of. Massage-credits and free food are well-known, but do you know that Google will also help you out with the brokerage and security-money when you rent an apartment ?
+3. You get sufficient time and resources to polish your skills and get creative, in the company of some really smart people. The work-life balance that Googlers enjoy is enviable.
+4. Bragging rights - it's so easy to say where you work when everybody knows about it.
+
+However, there was this minor inconvenience.
+
+> "You get what you work for, not what you wish for." - Howard A. Tullman
+
+The task ahead was daunting. The previous approach had not yielded great results. In my humble opinion, preparation is a vector-like process - you need both magnitude and direction to succeed. I probably had the right amount of hours, but the preparation lacked a well-defined strategy. So, I assessed my game-plan again, and made slight adjustments to the skill-building process.
+
+1. Imposed a strict limit of 25 minutes for each medium-level question I solved on Leetcode. If I couldn't figure it out in the allotted time, I added it to a list of problems to be revisited more frequently.
+2. Leetcode lets you write notes for a problem. I started writing 2-3 lines for every problem I solved, after every practice session. The notes would look something like this: _"Easier to test a candidate than calculate the answer. Binary search on possible values of answer."_
+3. Every weekend, I visited the problems listed against a specific tag and kept a track of which topics have not been adequately covered.
+
+
+
 By the fourth week of May, I had enough safety nets to fall back on - both academic and professional. There were 200+ medium and hard questions in the kitty as well. After 12 consecutive days of solving 2 Leetcode medium-level questions under 40 minutes, I consulted the recruiter. We decided to go through all the interviews in two consecutive days, in the first week of June.
 
 It's time for the final showdown!

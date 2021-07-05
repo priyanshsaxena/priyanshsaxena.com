@@ -11,19 +11,31 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Google India Pvt. Ltd.
+      url: "https://www.google.com"
+      location: Hyderabad, India
+      # company overview
+      overview:
+        Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware.
+    positions:
+      - designation: Software Engineer
+        start: Jul 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Working with the Payments Merchant team at Google as a Software Engineer aiming to build a thriving ecosystem of highly engaged merchants on Google Pay for Business.
+
+  - company:
       name: Goldmans Sachs Service Pvt. Ltd.
       url: "https://www.goldmansachs.com"
       location: Bengaluru, India
-      # company overview
       overview:
-
         The Goldman Sachs Group, Inc. is a leading global financial institution that delivers a broad range of financial services across investment banking, securities, investment management and consumer banking to a large and diversified client base that includes corporations, financial institutions, governments and individuals.
     positions:
       - designation: New Associate Programmer Analyst
         start: May 2018
-        # don't provide end date if you are currently working there. It will be replaced by "Present"
-        # end: Dec 2020
-        # give some points about what was your responsibilities at the company.
+        end: Jun 2021
         responsibilities:
           - Responsible for management of a PaaS and cloud computing platform for developing, hosting and runtime-management of web applications. Built using Java 8 and Python, and supported by an independent integration- and penetration-testing suite written in Spock.
           - Responsible for the UI and Infrastructure-as-Code offerings used firmwide for on-premises and public-cloud infrastructure procurement. Used Java, AngularJS, Terraform and multiple in-house tools.

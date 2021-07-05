@@ -11,14 +11,14 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Goldman Sachs
-  url: "https://www.goldmansachs.com"
+  name: Google
+  url: "https://www.google.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/PriyanshSaxena_resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 3 years of working experience. I build tools for PaaS Cloud Computing using [Terraform](https://www.terraform.io/), Java, and Python. They enable people to develop, run, and manage business applications without the need to build and maintain the underlying infrastructure. Outside of work, I indulge in recreational software-development, like writing an automated responder for Facebook comments.'
+summary: 'I am a passionate software engineer with 3+ years of working experience. I build tools for PaaS Cloud Computing using [Terraform](https://www.terraform.io/), Java, and Python. They enable people to develop, run, and manage business applications without the need to build and maintain the underlying infrastructure. Outside of work, I indulge in recreational software-development, like writing an automated responder for Facebook comments.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

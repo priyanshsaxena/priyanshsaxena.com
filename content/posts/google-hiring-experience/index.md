@@ -1,6 +1,6 @@
 ---
 title: "From Noob to Noogler - How I made it to Google"
-date: 2018-07-03T12:00:00+05:30
+date: 2021-07-03T12:00:00+05:30
 description: My Google Hiring Experience
 menu:
     sidebar:

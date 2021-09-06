@@ -40,12 +40,14 @@ const doTheMath = () => {
     var count = 0;
     var answerMap = new Map();
     while (count < 90) {
-        var answerDetails = answerKeyRows[i].getElementsByTagName("span");
-        var quesType = answerDetails[0].textContent;
-        var questionNo = answerDetails[1].textContent;
-        var correctAnswer = answerDetails[2].textContent;
-        answerMap.set(questionNo, { type : quesType, answer : correctAnswer });
-        if(quesType === "Objective") i++;
+        if(answerKeyRows[i].getElementsByTagName("span").length > 0) {
+            var answerDetails = answerKeyRows[i].getElementsByTagName("span");
+            var quesType = answerDetails[1].textContent;
+            var questionNo = answerDetails[2].textContent;
+            var correctAnswer = answerDetails[3].textContent;
+            answerMap.set(questionNo, { type : quesType, answer : correctAnswer });
+            if(quesType === "Objective") i++;
+        }
         i++;
         count++;
     }

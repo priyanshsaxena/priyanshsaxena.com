@@ -4,8 +4,9 @@ date: 2021-07-10T23:00:00+05:30
 description: Interviewing for IIM Indore
 menu:
     sidebar:
-        name: Interviewing for IIM Indore
+        name: IIM Indore
         identifier: iimi-interview-experience
+        parent: getting-into-iims
         weight: 8
 ---
 

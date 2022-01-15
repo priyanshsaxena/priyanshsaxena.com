@@ -4,8 +4,9 @@ date: 2021-07-13T23:00:00+05:30
 description: Interviewing for CAP IIMs
 menu:
     sidebar:
-        name: Interviewing for CAP IIMs
+        name: CAP IIMs
         identifier: cap-interview-experience
+        parent: getting-into-iims
         weight: 8
 ---
 

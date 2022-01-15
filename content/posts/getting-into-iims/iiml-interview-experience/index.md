@@ -4,8 +4,9 @@ date: 2021-07-08T23:00:00+05:30
 description: Interviewing for IIM Lucknow
 menu:
     sidebar:
-        name: Interviewing for IIM Lucknow
+        name: IIM Lucknow
         identifier: iiml-interview-experience
+        parent: getting-into-iims
         weight: 8
 ---
 
